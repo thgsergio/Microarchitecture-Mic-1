@@ -1,7 +1,7 @@
 CMakeFiles/mic1.dir/src/reg/register.cpp.o: \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.cpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.cpp \
  /usr/include/stdc-predef.h \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.hpp \
  /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

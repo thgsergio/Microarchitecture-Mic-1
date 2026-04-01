@@ -1,7 +1,7 @@
 CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o: \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/auxiliarFunctions/functions.cpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/auxiliarFunctions/functions.cpp \
  /usr/include/stdc-predef.h \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/auxiliarFunctions/functions.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/auxiliarFunctions/functions.hpp \
  /usr/include/c++/13/fstream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -165,9 +165,9 @@ CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o: \
  /usr/include/c++/13/bits/stl_map.h \
  /usr/include/c++/13/bits/stl_multimap.h \
  /usr/include/c++/13/bits/erase_if.h \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.hpp \
  /usr/include/c++/13/iostream \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.hpp
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.hpp

@@ -1,5 +1,5 @@
 CMakeFiles/mic1.dir/src/Mic1.cpp.o: \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/Mic1.cpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/Mic1.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -155,8 +155,8 @@ CMakeFiles/mic1.dir/src/Mic1.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
  /usr/include/c++/13/bits/fstream.tcc /usr/include/c++/13/array \
  /usr/include/c++/13/compare \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/ula/ULA.hpp \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/ula/ULA.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.hpp \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/stl_uninitialized.h \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \
@@ -164,13 +164,13 @@ CMakeFiles/mic1.dir/src/Mic1.cpp.o: \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.hpp \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/auxiliarFunctions/functions.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/auxiliarFunctions/functions.hpp \
  /usr/include/c++/13/map /usr/include/c++/13/bits/stl_tree.h \
  /usr/include/c++/13/ext/aligned_buffer.h \
  /usr/include/c++/13/bits/node_handle.h \
  /usr/include/c++/13/bits/stl_map.h \
  /usr/include/c++/13/bits/stl_multimap.h \
  /usr/include/c++/13/bits/erase_if.h \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.hpp \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.hpp
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.hpp

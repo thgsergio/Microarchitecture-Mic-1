@@ -114,9 +114,9 @@ void executar(const Microinstrucao& mi, int ciclo,
 
 int main(){
     // Abertura de arquivos
-    std::ifstream arqDados("src/memory/memory_Data.txt");
-    //std::ifstream arqInstrucoes("scr/memory/instrucoes.txt");
-    std::ofstream log("resultados/log_execucao.txt");
+    std::ifstream arqDados("../src/memory/memory_Data.txt");
+    //std::ifstream arqInstrucoes("../src/memory/instrucoes.txt");
+    std::ofstream log("../resultados/log_execucao.txt");
  
     if(!arqDados.is_open())      { std::cerr << "[FILE Error] memory_Data.txt\n";   return 1; }
     //if(!arqInstrucoes.is_open()) { std::cerr << "[FILE Error] instrucoes.txt\n";    return 1; }
@@ -146,7 +146,7 @@ int main(){
     }
  
     // Carrega registradores iniciais
-    std::string conteudo = getExpression("src/memory/registradores.txt");
+    std::string conteudo = getExpression("../src/memory/registradores.txt");
     std::vector<Token> tokensReg = tokenize(conteudo);
  
     for(int i = 0; i < (int)tokensReg.size() - 1; ){
@@ -193,7 +193,7 @@ int main(){
     TabelaMicro tabela = buildTabela();
  
     // Tokeniza instrucoes.txt
-    std::string conteudoInstr = getExpression("src/memory/instrucoes.txt");
+    std::string conteudoInstr = getExpression("../src/memory/instrucoes.txt");
     std::vector<Token> tokensInstr = tokenize(conteudoInstr);
  
     int pos   = 0;

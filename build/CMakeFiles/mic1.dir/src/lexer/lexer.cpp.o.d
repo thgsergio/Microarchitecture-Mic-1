@@ -1,7 +1,7 @@
 CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o: \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.cpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.cpp \
  /usr/include/stdc-predef.h \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.hpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.hpp \
  /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

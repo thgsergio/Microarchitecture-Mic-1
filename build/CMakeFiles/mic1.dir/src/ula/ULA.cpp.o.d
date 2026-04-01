@@ -1,5 +1,5 @@
 CMakeFiles/mic1.dir/src/ula/ULA.cpp.o: \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/ula/ULA.cpp \
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/ula/ULA.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -151,4 +151,4 @@ CMakeFiles/mic1.dir/src/ula/ULA.cpp.o: \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc /usr/include/c++/13/array \
  /usr/include/c++/13/compare \
- /home/eduluis/faculdade/Extras/fork-Mic-1/src/ula/ULA.hpp
+ /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/ula/ULA.hpp

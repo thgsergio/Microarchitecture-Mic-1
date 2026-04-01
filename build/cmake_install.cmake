@@ -1,4 +1,4 @@
-# Install script for directory: /home/eduluis/faculdade/Extras/fork-Mic-1
+# Install script for directory: /home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/eduluis/faculdade/Extras/fork-Mic-1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

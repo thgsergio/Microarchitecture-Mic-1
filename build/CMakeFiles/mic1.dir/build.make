@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/eduluis/faculdade/Extras/fork-Mic-1
+CMAKE_SOURCE_DIR = "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/eduluis/faculdade/Extras/fork-Mic-1/build
+CMAKE_BINARY_DIR = "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/mic1.dir/depend.make
@@ -70,74 +70,74 @@ include CMakeFiles/mic1.dir/progress.make
 include CMakeFiles/mic1.dir/flags.make
 
 CMakeFiles/mic1.dir/src/Mic1.cpp.o: CMakeFiles/mic1.dir/flags.make
-CMakeFiles/mic1.dir/src/Mic1.cpp.o: /home/eduluis/faculdade/Extras/fork-Mic-1/src/Mic1.cpp
+CMakeFiles/mic1.dir/src/Mic1.cpp.o: /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/Mic1.cpp
 CMakeFiles/mic1.dir/src/Mic1.cpp.o: CMakeFiles/mic1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mic1.dir/src/Mic1.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/Mic1.cpp.o -MF CMakeFiles/mic1.dir/src/Mic1.cpp.o.d -o CMakeFiles/mic1.dir/src/Mic1.cpp.o -c /home/eduluis/faculdade/Extras/fork-Mic-1/src/Mic1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mic1.dir/src/Mic1.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/Mic1.cpp.o -MF CMakeFiles/mic1.dir/src/Mic1.cpp.o.d -o CMakeFiles/mic1.dir/src/Mic1.cpp.o -c "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/Mic1.cpp"
 
 CMakeFiles/mic1.dir/src/Mic1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mic1.dir/src/Mic1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/eduluis/faculdade/Extras/fork-Mic-1/src/Mic1.cpp > CMakeFiles/mic1.dir/src/Mic1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/Mic1.cpp" > CMakeFiles/mic1.dir/src/Mic1.cpp.i
 
 CMakeFiles/mic1.dir/src/Mic1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mic1.dir/src/Mic1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/eduluis/faculdade/Extras/fork-Mic-1/src/Mic1.cpp -o CMakeFiles/mic1.dir/src/Mic1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/Mic1.cpp" -o CMakeFiles/mic1.dir/src/Mic1.cpp.s
 
 CMakeFiles/mic1.dir/src/ula/ULA.cpp.o: CMakeFiles/mic1.dir/flags.make
-CMakeFiles/mic1.dir/src/ula/ULA.cpp.o: /home/eduluis/faculdade/Extras/fork-Mic-1/src/ula/ULA.cpp
+CMakeFiles/mic1.dir/src/ula/ULA.cpp.o: /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/ula/ULA.cpp
 CMakeFiles/mic1.dir/src/ula/ULA.cpp.o: CMakeFiles/mic1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mic1.dir/src/ula/ULA.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/ula/ULA.cpp.o -MF CMakeFiles/mic1.dir/src/ula/ULA.cpp.o.d -o CMakeFiles/mic1.dir/src/ula/ULA.cpp.o -c /home/eduluis/faculdade/Extras/fork-Mic-1/src/ula/ULA.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mic1.dir/src/ula/ULA.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/ula/ULA.cpp.o -MF CMakeFiles/mic1.dir/src/ula/ULA.cpp.o.d -o CMakeFiles/mic1.dir/src/ula/ULA.cpp.o -c "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/ula/ULA.cpp"
 
 CMakeFiles/mic1.dir/src/ula/ULA.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mic1.dir/src/ula/ULA.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/eduluis/faculdade/Extras/fork-Mic-1/src/ula/ULA.cpp > CMakeFiles/mic1.dir/src/ula/ULA.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/ula/ULA.cpp" > CMakeFiles/mic1.dir/src/ula/ULA.cpp.i
 
 CMakeFiles/mic1.dir/src/ula/ULA.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mic1.dir/src/ula/ULA.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/eduluis/faculdade/Extras/fork-Mic-1/src/ula/ULA.cpp -o CMakeFiles/mic1.dir/src/ula/ULA.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/ula/ULA.cpp" -o CMakeFiles/mic1.dir/src/ula/ULA.cpp.s
 
 CMakeFiles/mic1.dir/src/reg/register.cpp.o: CMakeFiles/mic1.dir/flags.make
-CMakeFiles/mic1.dir/src/reg/register.cpp.o: /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.cpp
+CMakeFiles/mic1.dir/src/reg/register.cpp.o: /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.cpp
 CMakeFiles/mic1.dir/src/reg/register.cpp.o: CMakeFiles/mic1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mic1.dir/src/reg/register.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/reg/register.cpp.o -MF CMakeFiles/mic1.dir/src/reg/register.cpp.o.d -o CMakeFiles/mic1.dir/src/reg/register.cpp.o -c /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mic1.dir/src/reg/register.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/reg/register.cpp.o -MF CMakeFiles/mic1.dir/src/reg/register.cpp.o.d -o CMakeFiles/mic1.dir/src/reg/register.cpp.o -c "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.cpp"
 
 CMakeFiles/mic1.dir/src/reg/register.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mic1.dir/src/reg/register.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.cpp > CMakeFiles/mic1.dir/src/reg/register.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.cpp" > CMakeFiles/mic1.dir/src/reg/register.cpp.i
 
 CMakeFiles/mic1.dir/src/reg/register.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mic1.dir/src/reg/register.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/eduluis/faculdade/Extras/fork-Mic-1/src/reg/register.cpp -o CMakeFiles/mic1.dir/src/reg/register.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/reg/register.cpp" -o CMakeFiles/mic1.dir/src/reg/register.cpp.s
 
 CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o: CMakeFiles/mic1.dir/flags.make
-CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o: /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.cpp
+CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o: /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.cpp
 CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o: CMakeFiles/mic1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o -MF CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o.d -o CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o -c /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o -MF CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o.d -o CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o -c "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.cpp"
 
 CMakeFiles/mic1.dir/src/lexer/lexer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mic1.dir/src/lexer/lexer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.cpp > CMakeFiles/mic1.dir/src/lexer/lexer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.cpp" > CMakeFiles/mic1.dir/src/lexer/lexer.cpp.i
 
 CMakeFiles/mic1.dir/src/lexer/lexer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mic1.dir/src/lexer/lexer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/eduluis/faculdade/Extras/fork-Mic-1/src/lexer/lexer.cpp -o CMakeFiles/mic1.dir/src/lexer/lexer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/lexer/lexer.cpp" -o CMakeFiles/mic1.dir/src/lexer/lexer.cpp.s
 
 CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o: CMakeFiles/mic1.dir/flags.make
-CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o: /home/eduluis/faculdade/Extras/fork-Mic-1/src/auxiliarFunctions/functions.cpp
+CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o: /home/joao-pedro/Área\ de\ trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/auxiliarFunctions/functions.cpp
 CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o: CMakeFiles/mic1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o -MF CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o.d -o CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o -c /home/eduluis/faculdade/Extras/fork-Mic-1/src/auxiliarFunctions/functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o -MF CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o.d -o CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o -c "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/auxiliarFunctions/functions.cpp"
 
 CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/eduluis/faculdade/Extras/fork-Mic-1/src/auxiliarFunctions/functions.cpp > CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/auxiliarFunctions/functions.cpp" > CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.i
 
 CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/eduluis/faculdade/Extras/fork-Mic-1/src/auxiliarFunctions/functions.cpp -o CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/src/auxiliarFunctions/functions.cpp" -o CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.s
 
 # Object files for target mic1
 mic1_OBJECTS = \
@@ -157,7 +157,7 @@ mic1: CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o
 mic1: CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o
 mic1: CMakeFiles/mic1.dir/build.make
 mic1: CMakeFiles/mic1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable mic1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable mic1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mic1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -169,6 +169,6 @@ CMakeFiles/mic1.dir/clean:
 .PHONY : CMakeFiles/mic1.dir/clean
 
 CMakeFiles/mic1.dir/depend:
-	cd /home/eduluis/faculdade/Extras/fork-Mic-1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eduluis/faculdade/Extras/fork-Mic-1 /home/eduluis/faculdade/Extras/fork-Mic-1 /home/eduluis/faculdade/Extras/fork-Mic-1/build /home/eduluis/faculdade/Extras/fork-Mic-1/build /home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles/mic1.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1" "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1" "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build" "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build" "/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles/mic1.dir/DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/mic1.dir/depend
 
