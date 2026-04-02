@@ -8,14 +8,6 @@
 #include "register.hpp"
 
 /* ============ Reg32 ============ */
-uint32_t Reg32::toUint(){
-    uint32_t valor = 0;
-    for (int i = 0; i < 32; i++){
-        valor = (valor << 1) | data[i];
-    }
-    return valor;
-}
-
 bool Reg32::transf(std::array<bool, 32>& bar){
     data = bar;
     return true;
@@ -76,14 +68,6 @@ bool Reg32_memory::escritaMemory(std::string arquivo, uint32_t endereco){
 }
 
 /* ============ Reg8 ============ */
-uint32_t Reg8::toUint(){
-    uint8_t valor = 0;
-    for (int i = 0; i < 8; i++){
-        valor = (valor << 1) | data[i];
-    }
-    return static_cast<uint32_t>(valor); // Extensão de zero para 32 bits
-}
-
 bool Reg8::transf(std::array<bool, 32>& bar){
     // Pega apenas os 8 bits menos significativos do barramento
     for (int i = 0; i < 8; i++){

@@ -79,18 +79,17 @@ Microinstrucao fromString(const std::string& s){
 
 TabelaMicro buildTabela(){
     TabelaMicro t;
-    t["H_RECEBE_LV"]          = fromString("00110100" "100000000" "00" "0101");
+    t["H_RECEBE_LV"]          = fromString("00010100" "100000000" "00" "0101");
     t["H_INCREMENTA"]         = fromString("00111001" "100000000" "00" "0000");
-    t["MAR_RECEBE_H_RD"]      = fromString("00111000" "000000001" "01" "0000");
+    t["MAR_RECEBE_H_RD"]      = fromString("00011000" "000000001" "01" "0000");
     t["MAR_SP_INCREMENTA_WR"] = fromString("00110101" "000001001" "10" "0100");
-    t["TOS_RECEBE_MDR"]       = fromString("00110100" "001000000" "00" "0000");
+    t["TOS_RECEBE_MDR"]       = fromString("00010100" "001000000" "00" "0000");
     t["MAR_SP_INCREMENTA"]    = fromString("00110101" "000001001" "00" "0100");
-    t["MDR_RECEBE_TOS_WR"]    = fromString("00110100" "000000010" "10" "0111");
+    t["MDR_RECEBE_TOS_WR"]    = fromString("00010100" "000000010" "10" "0111");
     t["SP_MAR_INCREMENTA"]    = fromString("00110101" "000001001" "00" "0100");
-    t["MDR_TOS_RECEBE_H_WR"]  = fromString("00111000" "001000010" "10" "0000");
+    t["MDR_TOS_RECEBE_H_WR"]  = fromString("00011000" "001000010" "10" "0000");
     return t;
 }
-
 
 Programa traduzir(const std::vector<Token>& tokens, int& pos,
                   const TabelaMicro& tab){

@@ -67,7 +67,7 @@ void executar(const Microinstrucao& mi, int ciclo,
     // -------------------------------------------------------
     if(bitWRITE && bitREAD){
         std::array<bool,8> byteVal = {};
-        for(int i = 0; i < 8; i++) byteVal[i] = mi[i];
+        for(int i = 0; i < 8; i++){byteVal[i] = mi[i];}
         MBR.data = byteVal;
  
         // Zero-extension para 32 bits: byte ocupa os 8 bits menos significativos

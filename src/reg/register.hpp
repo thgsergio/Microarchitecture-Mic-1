@@ -58,7 +58,6 @@ class Reg{
         bool input_2;              // Entrada 2 DIREITA  => Na imagem do caminho de dados, este imput é o do lado direito
 
     public:
-        virtual uint32_t toUint() = 0;
         virtual bool transf(std::array<bool, 32>& bar) = 0;                //Transfere os dados para o barramento B
         virtual std::array<bool, 32> recebe() = 0;   
 };
@@ -70,7 +69,6 @@ class Reg32 : public Reg{
         std::array<bool, 32> data; //Informação do registrador                             //Os dados do barramento C são passados para o registrador
         
     /*Métodos*/    
-        uint32_t toUint() override; // Conversão do data para Uint
         bool transf(std::array<bool, 32>& bar) override; // Transfere os dados para o barramento B
         std::array<bool, 32> recebe() override;
 };
@@ -91,7 +89,6 @@ class Reg8 : public Reg{ //Toda informação do Reg32 pode ser aplicado aqui..
 
     /*Métodos*/
         /*Por que 32 bits? Simplesmente Extensão de sinal no barramento B*/
-        uint32_t toUint() override; // Conversão do data para Uint
         bool transf(std::array<bool, 32>& bar) override;
         std::array<bool, 32> recebe() override;
         std::array<bool, 32> recebeU();
