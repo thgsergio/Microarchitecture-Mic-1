@@ -220,6 +220,6 @@ Cada ciclo registra a microinstrução executada, o registrador do barramento B,
 
 ---
 
-Projeto desenvolvido para a disciplina de Arquitetura de Computadores — UFPB, 2026.
-Orientador — Prof. Augusto de Holanda B. M. Tavares.
-Alunos — João Pedro, Luís Eduardo, Maria Vitória e Thiago Sérgio. 
+Projeto desenvolvido para a disciplina de Arquitetura de Computadores — UFPB, 2026.  
+Orientador — Prof. Augusto de Holanda B. M. Tavares.  
+Alunos — João Pedro, Luís Eduardo, Maria Vitória e Thiago Sérgio.
