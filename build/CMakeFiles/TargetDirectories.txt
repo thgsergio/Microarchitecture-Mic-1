@@ -1,3 +1,0 @@
-/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles/mic1.dir
-/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles/edit_cache.dir
-/home/eduluis/faculdade/Extras/fork-Mic-1/build/CMakeFiles/rebuild_cache.dir
