@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/mic1.dir/src/Mic1.cpp.o CMakeFiles/mic1.dir/src/ula/ULA.cpp.o CMakeFiles/mic1.dir/src/reg/register.cpp.o CMakeFiles/mic1.dir/src/lexer/lexer.cpp.o CMakeFiles/mic1.dir/src/auxiliarFunctions/functions.cpp.o -o mic1 

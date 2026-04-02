@@ -1,3 +1,0 @@
-/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles/mic1.dir
-/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles/edit_cache.dir
-/home/joao-pedro/Área de trabalho/Curso/p4/arquitetura_de_computadores/Microarchitecture-Mic-1/build/CMakeFiles/rebuild_cache.dir
